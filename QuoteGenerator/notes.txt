@@ -1,0 +1,2 @@
+-Used http://www.heropatterns.com/ for background
+-COMMIT: Added html template with 2 buttons, applied imported background see url above in notes.txt
